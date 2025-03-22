@@ -1,3 +1,6 @@
 {
-  "git.ignoreLimitWarning": true
+  "git.ignoreLimitWarning": true,
+  "code-runner.executorMap": {
+    "typescript": "npx tsx",
+  }
 }
