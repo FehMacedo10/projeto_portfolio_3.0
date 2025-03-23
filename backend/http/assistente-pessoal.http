@@ -1,0 +1,7 @@
+POST https://fmacedoribeiro.app.n8n.cloud/webhook/assistente-pessoal
+Content-Type: application/json
+
+{
+  "chatId": "123456789",
+  "mensagem": "Você trabalha com desenvolvimento de software?"
+}
