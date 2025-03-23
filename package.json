@@ -1,0 +1,20 @@
+{
+  "name": "projeto_portfolio_3.0",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx concurrently \"cd backend && npm run start:dev\" \"cd frontend && npm run dev\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FehMacedo10/projeto_portfolio_3.0.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FehMacedo10/projeto_portfolio_3.0/issues"
+  },
+  "homepage": "https://github.com/FehMacedo10/projeto_portfolio_3.0#readme",
+  "description": ""
+}
